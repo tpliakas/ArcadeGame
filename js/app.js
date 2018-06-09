@@ -1,3 +1,19 @@
+let low = 15,
+    medium = 50,
+    high = 90;
+var allEnemies = [];
+var myScoreBoard;
+myScoreBoard = document.createElement('h1');
+document.body.appendChild(myScoreBoard);
+
+var GameObjects = function (x, y) {
+    this.startPoint = 0;
+    this.endPoint = 550;
+    this.x = 0;
+    this.y = 0;
+    this.sprite;
+};
+
 // Enemies our player must avoid
 var Enemy = function() {
     // Variables applied to each of our instances go here,
