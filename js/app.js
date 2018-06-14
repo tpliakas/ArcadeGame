@@ -1,4 +1,4 @@
-let low = 15,
+let low = 30,
     medium = 50,
     high = 90;
 var allEnemies = [];
@@ -188,7 +188,7 @@ document.addEventListener('keyup', function (e) {
     player.handleInput(allowedKeys[e.keyCode]);
 });
 
-//disable scroll controlled by arrowkeys
+//disables the scroll controlled by arrowkeys
 window.addEventListener('keydown', function (event) {
     if ([37, 38, 39, 40].indexOf(event.keyCode) > -1) {
         event.preventDefault();
