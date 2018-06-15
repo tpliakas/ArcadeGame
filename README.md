@@ -9,4 +9,8 @@ Gameplay:
 3. Each time you reach the water you gain points.
 4. Avoid the bugs, they kill you. You start with three lives.
 
+___
+**To start playing go [here.](https://tpliakas.github.io/ArcadeGame)**
+___
+
 Cloned from: https://github.com/udacity/frontend-nanodegree-arcade-game
