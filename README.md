@@ -11,6 +11,12 @@ Gameplay:
 
 ___
 **To start playing go [here.](https://tpliakas.github.io/ArcadeGame)**
+
+**Local Installation:**
+
+* Download the repository:
+* Click download ZIP on the right of the screen, then extract the zip file to your computer, or clone the repository using git.
+* Double-click index.html to open the game in your browser.
 ___
 
 Cloned from: https://github.com/udacity/frontend-nanodegree-arcade-game
